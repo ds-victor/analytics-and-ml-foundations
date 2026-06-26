@@ -48,7 +48,7 @@ Focuses on building, evaluating, and deploying predictive models.
 To pull this repository to your local machine:
 ```bash
 git clone <your-repo-url>
-cd ML_Series
+cd analytics-and-ml-foundations
 ```
 
 ### 2. Choose Your Path

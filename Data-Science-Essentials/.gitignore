@@ -1,0 +1,21 @@
+# Data files (except the sample dataset)
+*.csv
+!data/raw/real_estate_dataset.csv
+*.parquet
+
+# Model binaries
+*.pkl
+*.joblib
+
+# MLflow runs
+mlruns/
+.mlruns/
+
+# Python artefacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+.DS_Store

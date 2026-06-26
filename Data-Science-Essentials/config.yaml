@@ -1,0 +1,10 @@
+# Paths for the house price project
+paths:
+  data: "data/raw/real_estate_dataset.csv"
+  models: "models/"
+  reports: "reports/"
+
+# Experiment tracking (MLflow)
+mlflow:
+  tracking_uri: "./mlruns"          # local file mode
+  experiment_name: "house_price_prediction"
